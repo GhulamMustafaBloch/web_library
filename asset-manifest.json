@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web_library/static/css/main.d40d9ac3.css",
+    "main.css": "/web_library/static/css/main.3ed0fb09.css",
     "main.js": "/web_library/static/js/main.365aa5bd.js",
     "static/media/Jameel-Noori-Nastaleeq-Regular.ttf": "/web_library/static/media/Jameel-Noori-Nastaleeq-Regular.a1d0cd1fea67e7ad50f3.ttf",
     "static/media/khatam-banner.png": "/web_library/static/media/khatam-banner.15b090fb085811eb9043.png",
@@ -12,11 +12,11 @@
     "static/media/images2.jpg": "/web_library/static/media/images2.077fe5781ae4da3bbb6a.jpg",
     "static/media/Untitled3.jpg": "/web_library/static/media/Untitled3.80867c580aa54f945c9f.jpg",
     "index.html": "/web_library/index.html",
-    "main.d40d9ac3.css.map": "/web_library/static/css/main.d40d9ac3.css.map",
+    "main.3ed0fb09.css.map": "/web_library/static/css/main.3ed0fb09.css.map",
     "main.365aa5bd.js.map": "/web_library/static/js/main.365aa5bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d40d9ac3.css",
+    "static/css/main.3ed0fb09.css",
     "static/js/main.365aa5bd.js"
   ]
 }
